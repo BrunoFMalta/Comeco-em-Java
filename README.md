@@ -1,2 +1,2 @@
 # Comeco-em-Java
-Aqui vou publicando meu avanço na linguagem Java
+Nessa pasta tem meu começo em java, teste de processamentos!
